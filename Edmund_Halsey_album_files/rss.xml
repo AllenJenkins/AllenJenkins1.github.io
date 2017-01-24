@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Edmund Drake Halsey collection</title>
+    <link>file://localhost/Users/joyce/Dropbox/Public/Halsey%20Jenkins%20iWeb%20site/Halsey_iWeb_webpage_site/Edmund_Halsey_album/Edmund_Halsey_album.html</link>
+    <description>Edmund Drake Halsey collection</description>
+    <item>
+      <title>Halsey collection</title>
+      <link>file://localhost/Users/joyce/Dropbox/Public/Halsey%20Jenkins%20iWeb%20site/Halsey_iWeb_webpage_site/Edmund_Halsey_album/Pages/Halsey_collection.html</link>
+      <guid isPermaLink="false">a57a15cf-2038-4a75-a469-0235007502f4</guid>
+    </item>
+  </channel>
+</rss>
